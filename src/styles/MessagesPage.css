@@ -1,0 +1,30 @@
+
+.messages {
+    border: 1px solid blue;
+    width: 90vw;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.message {
+    display: flex;
+    align-items: center;
+}
+
+
+#messageInput {
+    margin: 5px;
+    padding: 10px;
+    padding-top: 10px;
+    width: 60vw;
+}
+
+#messageButton {
+    margin: 5px;
+    width: 80px;
+}
