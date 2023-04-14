@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project is simple web chat app using React
+User first need to enter his name and choose avatar, after that he can send messages to other users.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
